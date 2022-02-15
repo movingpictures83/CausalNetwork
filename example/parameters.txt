@@ -1,0 +1,7 @@
+undirected	undirected.csv
+directed	directed.csv
+datafile	input.csv
+bootfile	bootstrength.csv
+group1	group1.txt
+group2	group2.txt
+graphid	1001
